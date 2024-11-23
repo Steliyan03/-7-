@@ -44,7 +44,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Invalid orientation. Please enter 'left' or 'right'.");
+            Console.WriteLine("Wrong side. Please enter 'left' or 'right'.");
         }
     }
 }
